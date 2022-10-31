@@ -1,11 +1,18 @@
-# Start your own "Can of Books" App
+# Project Name
 
-This repository has starter code to begin work on creating your own online bookshelf.
+**Author**: Steven Rejdukowski-Seth Pierce
+**Version**: 1.0.1 (increment the patch/fix version number if you make more commits past your first submission)
 
-## What can books do?
+## Overview
+Application that displays books from a database
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+## Getting Started
+Open the website and it will do the work itself
 
-## Use this template
+## Architecture
+MongoDB, Javascript, React
+## Change Log
+10/31/2022 3:10pm just starting to put inital parts into place
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+## Estimates
+should take about 5 hours to get lab done on 10/31
