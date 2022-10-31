@@ -15,4 +15,14 @@ MongoDB, Javascript, React
 10/31/2022 3:10pm just starting to put inital parts into place
 
 ## Estimates
-should take about 5 hours to get lab done on 10/31
+should take about 4 hours to get lab done on 10/31
+
+Name of feature: Inital Server Set up
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 3:10pm
+
+Finish time: 5:50:pm
+
+Actual time needed to complete: 2 hour 40 mins
