@@ -43,8 +43,6 @@ app.get('/books', getBooks);
 
 app.post('/books', postBooks);
 
-app.delete('/books', clearDB);
-
 app.delete('/books/:bookID', deleteBook);
 
 
@@ -69,14 +67,7 @@ async function postBooks(request, response, next){
   }
 }
 
-async function clearDB() {
-  try {
-    await Book.deleteMany({});
-    console.log('All Books cleared from DB');
-  } catch (err) {
-    console.error(err);
-  }
-}
+
 
 async function deleteBook(request, response, next){
 try {
