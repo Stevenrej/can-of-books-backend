@@ -1,7 +1,7 @@
 # Project Name
 
 **Author**: Steven Rejdukowski-Seth Pierce
-**Version**: 1.0.5
+**Version**: 1.0.8
 
 ## Overview
 
@@ -18,7 +18,8 @@ MongoDB, Javascript, React, Express
 ## Change Log
 
 10/31/2022 3:10pm just starting to put inital parts into place
-11/1/2022 4:00pm finihsed adding post and delete functionality
+11/1/2022 4:00pm completed adding post and delete functionality
+11/2/2022 3:28pm  added update function to server
 
 ## Estimates
 
@@ -34,7 +35,7 @@ Finish time: 5:50:pm
 
 Actual time needed to complete: 2 hour 40 mins
 ****************************************************************
-should take about 4 hours to get lab done on 11/1
+should take about 2 hours to get lab done on 11/1
 
 Name of feature: Server POst and Delete function
 
@@ -46,5 +47,17 @@ Finish time: 4pm
 
 Actual time needed to complete: 1 hour 15 mins
 *******************************************************
+should take about 2 hours to get lab done on 11/2
+
+Name of feature: Server Update function
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 2:10pm
+
+Finish time: 3:28pm
+
+Actual time needed to complete: 1 hour 18 mins
+****************************************************************
 
 
